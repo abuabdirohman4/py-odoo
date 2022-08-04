@@ -1,1 +1,1 @@
-# py-odoo
+# Odoo
