@@ -1,6 +1,8 @@
 [submodule "odoo-10-hashmicro-module"]
 	path = odoo-10-hashmicro-module
 	url = git@github.com:abuabdirohman4/odoo-10-hashmicro-module.git
+	branch = main
 [submodule "odoo-12-linggajati-module"]
 	path = odoo-12-linggajati-module
 	url = git@github.com:abuabdirohman4/odoo-12-linggajati-module.git
+	branch = main
