@@ -15,3 +15,9 @@
 [submodule "odoo-docker-compose"]
 	path = odoo-docker-compose
 	url = https://github.com/abuabdirohman4/odoo-docker-compose
+[submodule "odoo-14-sanber-code"]
+	path = odoo-14-sanber-code
+	url = git@github.com:abuabdirohman4/odoo-14-sanber-code.git
+[submodule "odoo-14-odes-system"]
+	path = odoo-14-odes-system
+	url = git@github.com:abuabdirohman4/odoo-14-odes-system.git
